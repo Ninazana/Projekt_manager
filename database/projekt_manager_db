@@ -1,0 +1,9 @@
+$server="localhost";
+$username="root";
+$password="";
+$databasename="projekt_manager"
+$db=konekcija();
+$db=mysqly_connect("lokalhost","root","","projekt_manager");
+if(!db=konekcija())
+exit();
+mysqli_query()
